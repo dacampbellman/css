@@ -45,7 +45,20 @@ footer {
 
 .banter {
       background: cover;
-      background-color: 1B3840;
+      background-color:#1B3840;
      
 
+}
+
+
+nav li {
+	display: inline-block;
+	border: 2px;
+	border-color: green;
+	border-style: solid;
+	border-radius: 5px;
+	margin-left: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
 }
